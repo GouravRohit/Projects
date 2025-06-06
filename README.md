@@ -1,2 +1,1 @@
-# Python-Notebook
-AlmaBetter- Capstone Projects
+# Capstone Projects
